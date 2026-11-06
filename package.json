@@ -1,0 +1,11 @@
+{
+  "name": "blunno-control-empresarial-web",
+  "private": true,
+  "version": "31.1.0",
+  "description": "BLUNNO Control Empresarial · almacenamiento duradero con IndexedDB y Firebase Storage opcional",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/v30-1-20-base-regressions.test.mjs tests/v30-1-20-regressions.test.mjs tests/v30-1-20-interactions.test.mjs tests/v30-1-21-salary-separation.test.mjs tests/v31-invoice-interactions.test.mjs",
+    "test:storage": "node --test tests/v30-1-20-base-regressions.test.mjs tests/v30-1-20-regressions.test.mjs tests/v30-1-20-interactions.test.mjs tests/v30-1-21-salary-separation.test.mjs tests/v31-invoice-interactions.test.mjs"
+  }
+}

@@ -1,0 +1,4 @@
+BLUNNO V31.1.0
+Build: 2026.11.06.55
+Base: V31.0.0
+Alcance: selector de proveedores con eventos locales estables y sugerencias priorizadas por inicio del nombre; edición de facturas por delegación estable; presentación ordenada de importes liquidados en Personal. Sin cambios en cálculos, datos ni reglas Firebase.
